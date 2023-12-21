@@ -1,0 +1,6 @@
+### Waiting list
+On this list there are competitors who have registered when the venue competitor limit has been filled. These competitors have to pay their registration to stay on the waiting list if their location requires payment in advance. They will be moved up if a spot from the competitor limit of their location is freed
+
+
+| Poznań | Rzeszów | Gdańsk | Kraków | Wrocław | Prague | Ostrava | Bratislava |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
